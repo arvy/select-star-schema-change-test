@@ -1,0 +1,1 @@
+# select-star-schema-change-test
